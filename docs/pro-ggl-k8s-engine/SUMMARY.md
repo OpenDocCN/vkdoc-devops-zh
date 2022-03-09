@@ -1,3 +1,4 @@
++   [谷歌 Kubenetes 引擎高级教程](README.md)
 +   [一、GKE 简介](01.md)
 +   [二、在 GCP 上设置环境](02.md)
 +   [三、使用 Google 容器注册表的容器映像管理](03.md)
@@ -8,4 +9,3 @@
 +   [八、使用 Sysdig 监控 GKE](08.md)
 +   [九、将 Prometheus 用于 GKE 监控](09.md)
 +   [十、GKE 集群、应用和监控部署的自动化](10.md)
-+   [谷歌 Kubenetes 引擎高级教程](README.md)

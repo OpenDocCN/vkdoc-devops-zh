@@ -1,3 +1,4 @@
++   [GCP DevOps 高级教程](README.md)
 +   [一、DevOps 简介](01.md)
 +   [二、GCP 简介](02.md)
 +   [三、持续集成和交付简介](03.md)
@@ -8,4 +9,3 @@
 +   [八、在 GCP 创建和管理基础设施](08.md)
 +   [九、GCP 的认证和访问管理](09.md)
 +   [十、GCP 的网络配置和管理](10.md)
-+   [GCP DevOps 高级教程](README.md)
