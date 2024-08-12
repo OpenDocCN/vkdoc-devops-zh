@@ -1,5 +1,5 @@
 +   [Azure Arc Kubernetes 和服务器教程](README.md)
-+   [一、作为 Azure 控制平面的扩展的 Azure Arc ](1.md)
++   [一、作为 Azure 控制平面的扩展的 Azure Arc](1.md)
 +   [二、Azure 资源管理器洞察](2.md)
 +   [三、Azure 管理洞察](3.md)
 +   [四、Azure Arc 服务器：入门](4.md)
